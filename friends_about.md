@@ -15,7 +15,7 @@
 * ID：轩缈喵~
 * URL：https://www.akyuu.cc
 * 头像：https://www.akyuu.cc/about/profile.jpg
-* 简介：不会喵喵喵~
+* 简介：轩缈喵の喵呜窝
 
 ### 发送方式
 
